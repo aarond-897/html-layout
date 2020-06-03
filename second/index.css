@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+#top {
+  margin: 2vh;
+  border: solid 5px black;
+  height: 30vh;
+}
+
+#purple-rectangle {
+  display: inline-block;
+  background-color: blueviolet;
+  margin-left: 1vh;
+  margin-right: 3vh;
+  width: 2.5%;
+  height: 20vh;
+  margin-top: 8vh;
+}
+
+#green-rectangle {
+  display: inline-block;
+  background-color: green;
+  width: 30%;
+  height: 27vh;
+  margin-left: 3vh;
+}
+
+#circle {
+  display: inline-block;
+  background-color: lightskyblue;
+  border-radius: 50%;
+  width: 27vh;
+  height: 27vh;
+  margin-left: 6vh;
+}
+
+#middle {
+  border: dotted 5px black;
+  margin: 10px;
+  height: 30vh;
+}
+
+#tan-rectangle {
+  background-color: rgba(245, 219, 101, 0.863);
+  margin: 50px auto;
+  width: 95%;
+  height: 19vh;
+  box-shadow: 5px 10px;
+}
+
+#bottom {
+  border: gainsboro outset 2px;
+  margin: 3vh auto;
+  width: 40%;
+  height: 30vh;
+}
+
+p {
+  text-align: center;
+  color: darkblue;
+  font-size: 4vh;
+  font-weight: bolder;
+  margin: 10vh;
+  letter-spacing: 1vh;
+}

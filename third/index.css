@@ -1,0 +1,45 @@
+.row {
+  width: 100%;
+  height: 14vh;
+}
+
+.top,
+.row {
+  background-color: grey;
+}
+
+.small-square {
+  display: inline-block;
+  background-color: dodgerblue;
+  width: 14vh;
+  height: 12vh;
+  margin: 1vh 2vh;
+}
+
+.message {
+  height: 30vh;
+  padding: 6vh 10vh;
+}
+
+p {
+  font-size: 4vh;
+  line-height: normal;
+}
+
+
+.blue {
+  background-color: #3366ff;
+}
+
+.teal {
+  background-color: #50E3C2;
+}
+
+.green {
+
+  background-color: #B8E986;
+}
+
+.yellow {
+  background-color: #F8E71C;
+}
